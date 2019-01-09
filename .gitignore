@@ -1,0 +1,9 @@
+.*
+!.gitignore
+~*
+*.bak
+*.log
+bin/
+obj/
+Debug/
+Release/
